@@ -216,6 +216,29 @@ Q1
 
 <details>
 
+<details>
+  <summary> Nelly's Goals </summary>
+
+---
+Q1
+- Research and enroll in a Data Engineering bootcamp or training.
+- Build Strong Foundation in Data Engineering Concepts.
+- Get Hands-on with concepts learned.
+
+</details>
+
+<details>
+  <summary> Tim's Goals </summary>
+
+---
+Q1
+- Build foundational knowledge of multi-agent systems, their architecture, coordination, and communication mechanisms.
+- Research and identify impactful use cases for multi-AI agents in key industries.
+- Develop a working prototype of a multi-AI agent system focused on automating a specific task or solving a problem in a target industry.
+- Study methods for evaluating the impact and scalability of AI agent solutions in real-world applications.
+
+</details>
+
   <summary> Copy this sample block </summary>
   
 ---
