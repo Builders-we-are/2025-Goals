@@ -28,19 +28,19 @@
 Jan
 - Python Advanced Data Structures  ✅
 - Github Actions with terraform deployment ✅
-- Apache Kafka (In-progress)
-- Databricks Secrets scope
+- https://6sense.com/tech/data-visualization/amazon-quicksight-market-share ✅
+- AWS QuickSight ✅
 
 Feb
-- Complete ETL Project end to end
-- AWS Lambda - step functions
-- AWS EMR from scratch
-
-Mar (Visualization Month)
-- https://6sense.com/tech/data-visualization/amazon-quicksight-market-share
-- AWS QuickSight
+- Apache Kafka (In-progress)
 - PowerBI
 - Tableau
+
+Mar 
+- Databricks Secrets scope
+- AWS Lambda - step functions
+- Complete ETL Project end to end
+- AWS EMR from scratch
 
 </details>
 
