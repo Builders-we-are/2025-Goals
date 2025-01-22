@@ -30,17 +30,21 @@ Jan
 - Github Actions with terraform deployment ✅
 - https://6sense.com/tech/data-visualization/amazon-quicksight-market-share ✅
 - AWS QuickSight ✅
+- AWS Lambda - step functions ✅ (future enhancement, pass outputs)
 
 Feb
-- Apache Kafka (In-progress)
-- PowerBI
-- Tableau
+- ArgoCD (here)[https://www.youtube.com/watch?v=B7Q-LcWK4TA]
+- Databricks Secrets scope
 
 Mar 
-- Databricks Secrets scope
-- AWS Lambda - step functions
-- Complete ETL Project end to end
+- Apache Kafka (In-progress - Pause)
+
+Q2 
+- PowerBI
+- Tableau
 - AWS EMR from scratch
+- Complete ETL Project end to end
+
 
 </details>
 
