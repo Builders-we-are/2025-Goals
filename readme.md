@@ -213,7 +213,9 @@ Q1
     - pushing/pulling
     - Cloning a repository
     - Other Github functions
-  [Publish a minimum of two articles on Projects you developed on preferred platform]
+    
+  [Publish a minimum of two articles on Projects you developed on a preferred platform]
+
 </details>
 
 
