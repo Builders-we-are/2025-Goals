@@ -203,8 +203,17 @@ Q1
   [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
   - Why this book? It introduces real-world problem-solving with Python.
   - Project: Create a Football History Analyzer:
-    - Scrape or analyze a CSV file containing historical football.
+    - Scrape or analyze a CSV file containing historical football data.
     - API endpoint to analyze information(curl)
+  [GIT/GITHUB]
+  - Understanding GIT and version control
+    - GIT basics, initializing a repository, staging, and committing changes.
+  - Working with GitHub
+    - Creating a GitHub repository
+    - pushing/pulling
+    - Cloning a repository
+    - Other Github functions
+  [Publish a minimum of two articles on Projects you developed on preferred platform]
 </details>
 
 
