@@ -113,7 +113,7 @@ March
 
 <details>
 
-  <summary> Lohor Goals </summary>
+  <summary> Person.Patch Goals </summary>
   
 ---
 
@@ -126,7 +126,6 @@ March
 
 
 Q1
-- Jan: Comptia Security+ Cert (exam on the 2nd of FEB)
 - Feb: CKA Certification (exam not scheduled)
 - Read Automate the boring stuff with python
 - April: CKAD Certification
