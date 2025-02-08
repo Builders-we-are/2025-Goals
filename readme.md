@@ -164,17 +164,16 @@ Q1
 
   <summary> Susan's Goals </summary>
   
-### Microsoft Security - Updated
 ---
 
 Q1
-- Complete the SC-900 Exam
-- Complete the SC-200 Exam
-
-Task 1
-- Complete SC-900 training
-- Complete practice exam
-- Pass official exam
+- Complete the Topics below.
+- Post and Review self-assigned practice questions.
+- -- Add devices to Microsoft Entra ID
+- -- Choose an appropriate device join type
+- -- Join devices to Microsoft Entra ID
+- -- Register devices to Microsoft Entra ID
+- -- Plan and implement groups for devices in Microsoft Entra ID
  
 </details>
 
