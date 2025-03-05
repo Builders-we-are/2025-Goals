@@ -253,6 +253,26 @@ Q1
 
 </details>
 
+<details>
+
+  <summary> Agathe Goal </summary>
+  
+---
+Q1
+- Indepently code python
+- get better of understanding the if-else statements 
+- create small project
+- create big projects
+   
+</details>
+
+</details>
+
+
+
+
+
+
   <summary> Copy this sample block </summary>
   
 ---
