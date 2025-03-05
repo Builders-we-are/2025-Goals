@@ -229,8 +229,6 @@ Q1
 </details>
 
 <details>
-
-<details>
   <summary> Nelly's Goals </summary>
 
 ---
@@ -265,6 +263,8 @@ Q1
 - create big projects
    
 </details>
+
+<details>
 
 </details>
 
