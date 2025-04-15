@@ -33,18 +33,27 @@ Jan
 - AWS Lambda - step functions ✅ (future enhancement, pass outputs)
 
 Feb
-- ArgoCD (here)[https://www.youtube.com/watch?v=B7Q-LcWK4TA]
-- Databricks Secrets scope
+- Azure Data Engineer fundamentals ✅
+- Databricks Secrets scope ✅
 
 Mar 
-- Apache Kafka (In-progress - Pause)
-
-Q2 
 - PowerBI
 - Tableau
-- AWS EMR from scratch
-- Complete ETL Project end to end
+- Snowflake
+- DBT
 
+Q2
+- Thougthspot vizualization
+- Powershell scripting 
+- One AWS Professional Cert. (Solution Architect expires in Oct)
+- Terraform cert renewal or higher cert? 
+
+
+Offset
+- AWS EMR from scratch
+- ArgoCD (here)[https://www.youtube.com/watch?v=B7Q-LcWK4TA]
+- Complete ETL Project end to end
+- Apache Kafka (In-progress - Pause)
 
 </details>
 
