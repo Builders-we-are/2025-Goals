@@ -167,13 +167,7 @@ Q1
 ---
 
 Q1
-- Complete the Topics below.
-- Post and Review self-assigned practice questions.
-- -- Add devices to Microsoft Entra ID
-- -- Choose an appropriate device join type
-- -- Join devices to Microsoft Entra ID
-- -- Register devices to Microsoft Entra ID
-- -- Plan and implement groups for devices in Microsoft Entra ID
+- Study and Complete the AZ-104 exam.
  
 </details>
 
