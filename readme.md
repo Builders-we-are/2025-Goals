@@ -41,6 +41,9 @@ Mar
 - Tableau
 - Snowflake
 - DBT
+- PySpark
+- ACM Cert addition to website
+- IAM project cross account access
 
 Q2
 - Thougthspot vizualization
