@@ -1,4 +1,4 @@
-# Please Commit Your First Quarter Goals
+# Please Commit Your First and Second Quarter Goals Below
 
 <details>
   <summary> King Obi Goals </summary>
@@ -18,6 +18,7 @@
     - Scrape or analyze a CSV file containing movie-watching history.
     - Summarize stats like total watch time, favorite genres, and the number of movies watched per month.
 
+I will update my goals 
 </details>
 
 
@@ -41,15 +42,18 @@ Mar
 - Tableau
 - Snowflake
 - DBT
+
+Q2
 - PySpark
 - ACM Cert addition to website
 - IAM project cross account access
-
-Q2
 - Thougthspot vizualization
 - Powershell scripting 
 - One AWS Professional Cert. (Solution Architect expires in Oct)
-- Terraform cert renewal or higher cert? 
+- Terraform cert renewal or higher cert? Vault?
+- Dynatrace
+- Prometheus
+- Grafana 
 
 
 Offset
@@ -89,6 +93,11 @@ March
 - Troubleshooting
 - Mock Exams
 - CKA Certification Exam
+
+Q2
+- CKAD
+- KCNA
+- AZ 104 req. for work
 
 </details>
 
@@ -138,14 +147,13 @@ March
 
 
 Q1
-- Feb: CKA Certification (exam not scheduled)
 - Read Automate the boring stuff with python
-- April: CKAD Certification
 
 Q2
-- May: KCNA Certification
-- June-July: CKS Certification
-- August: KCSA Certification
+- April: CKAD Certification
+- June-July: KCNA Certification
+- August: CKS Certification
+- September: KCSA Certification
 
 </details>
 
@@ -179,8 +187,10 @@ Q1
 ---
 
 Q1
-- Study and Complete the AZ-104 exam.
- 
+- Study and Complete the AZ-104 exam. ✅
+Q2
+- Will update later 
+
 </details>
 
 <details>
@@ -272,11 +282,32 @@ Q1
 
 <details>
 
+
+  <summary> Lukman S. </summary>
+  
+---
+
+  <p> 
+  Duplicate this sample block from details tag opening to details tag closing <br>
+  Add your name in the summary <br>
+  Add your goals in the body <br>
+  </p>
+
+  Q1
+  - Jupyter ONE
+  - Jenkins
+  - CICD
+  - Azure refresher / AWS ...
+
+  Q2 
+  - AWS & Azure security
+  - Jupyter ONE advanced
+  - CSPM (May) Cloud Security Posture Management
+  - Stated that will update. April 15th, 2025 1906 hours
+
 </details>
 
-
-
-
+<details>
 
 
   <summary> Copy this sample block </summary>
@@ -289,14 +320,13 @@ Q1
   Add your goals in the body <br>
   </p>
 
+</details>
 
 
 Q1
 - Goal A
 - Goal B
-- Goal C
 </details>
-
 
 <details>
 
@@ -314,14 +344,12 @@ Q1
   <ul>
     <li>Person1</li>
     <li>Person2</li>
-    <li>Person3</li>
   </ul>
 
   Cyber Security
    <ul>
     <li>Person1</li>
     <li>Person2</li>
-    <li>Person3</li>
   </ul>
 
 </details>
