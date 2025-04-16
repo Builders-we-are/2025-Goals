@@ -98,9 +98,15 @@ March
 - CKA Certification Exam
 
 Q2
+
+April 
+
 - CKAD
+
+May
+
 - KCNA
-- AZ 104 req. for work
+- AZ 104 
 
 </details>
 
