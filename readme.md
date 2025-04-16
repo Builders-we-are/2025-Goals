@@ -2,7 +2,7 @@
 
 <details>
   <summary> King Obi Goals </summary>
-
+    Q1
   ---
   1. [Python Crash Course by Eric Matthes](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280)
   - [Current Working] (https://github.com/King-Ob/2025_PCC)
@@ -18,7 +18,10 @@
     - Scrape or analyze a CSV file containing movie-watching history.
     - Summarize stats like total watch time, favorite genres, and the number of movies watched per month.
 
-I will update my goals 
+Q2.
+---
+1. Write the Azure 400 devop exam
+2. Azure pipeline
 </details>
 
 
