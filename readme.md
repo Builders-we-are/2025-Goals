@@ -198,7 +198,7 @@ Q1
 Q1
 - Study and Complete the AZ-104 exam. ✅
 Q2
-- Will update later 
+- April: Study and write the MD-102 exam.
 
 </details>
 
