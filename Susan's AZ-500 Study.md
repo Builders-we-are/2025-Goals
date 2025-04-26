@@ -52,7 +52,7 @@
 - [ ] Create flashcards: RBAC roles vs. Azure AD roles (15 min).
   - **Knowledge Goal**: Differentiate RBAC and Azure AD roles.
 
-Wednesday, April 30 (2.5 hours)
+**Wednesday, April 30 (2.5 hours)**
 
  Watch Pluralsight: “Implement Privileged Identity Management” (1 hour).Resource: PluralsightKnowledge Goal: Understand PIM workflows.
  Lab: Enable PIM for an Azure AD role, test just-in-time access (1 hour).Resource: Azure portalKnowledge Goal: Configure and test PIM.
