@@ -199,7 +199,7 @@ Q1
 - Study and Complete the AZ-104 exam. ✅
 
 Q2
-- April: Study and write the MD-102 exam.
+- April: Study and Complete the AZ-500 exam.
 
 </details>
 
