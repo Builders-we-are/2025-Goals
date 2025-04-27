@@ -17,17 +17,23 @@
   
 **Sunday, April 27 (2 hours)**
 
-- [ ] Read AZ-500 exam skills outline on Microsoft Learn (30 min).
+- [x] Read AZ-500 exam skills outline on Microsoft Learn (30 min).
   - **Resource**: Microsoft Learn AZ-500
   - **Knowledge Goal**: Understand exam structure and objectives.
-- [ ] Complete Microsoft Learn module: “Manage Azure Active Directory identities” (1 hour).
+- [x] Complete Microsoft Learn module: “Manage Azure Active Directory identities” (1 hour).
   - **Resource**: Microsoft Learn
   - **KnowledgeGoal**: Understand Azure AD structure, user/group management.
-- [ ] Lab: Create an Azure AD user, assign roles, enable MFA (Azure portal, 45 min).
+- [x] Lab: Create an Azure AD user, assign roles, enable MFA (Azure portal, 45 min).
   - **Resource**: Azure portal
   - **Knowledge Goal**: Configure MFA and basic user management.
-- [ ] Review notes: Key Azure AD concepts (tenants, users, groups) (15 min).
+- [x] Review notes: Key Azure AD concepts (tenants, users, groups) (15 min).
   - **Knowledge Goal**: Solidify Azure AD terminology.
+     
+***Resource list used during study***
+- *https://www.youtube.com/watch?v=YjFAGujrYRk* - Enable MFA
+- *https://learn.microsoft.com/en-us/training/modules/manage-azure-active-directory-identities/* - Manage Azure Active Directory identities
+- *https://learn.microsoft.com/en-us/training/modules/manage-security-controls-identity-access/* - Unit 1 and 2
+- *https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500#skills-at-a-glance* - AZ-500 exam skills outline
 
 **Monday, April 28 (2.5 hours)**
 
