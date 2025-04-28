@@ -34,18 +34,22 @@
 - *https://learn.microsoft.com/en-us/training/modules/manage-azure-active-directory-identities/* - Manage Azure Active Directory identities
 - *https://learn.microsoft.com/en-us/training/modules/manage-security-controls-identity-access/* - Unit 1 and 2
 - *https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-500#skills-at-a-glance* - AZ-500 exam skills outline
+- *https://www.udemy.com/course/exam-azure-2/?couponCode=25BBPMXPLOYTRMT* - Udemy course (Unit 1 - 15)
 
 **Monday, April 28 (2.5 hours)**
 
 - [ ] Watch Pluralsight: “Manage Identities in Azure AD” (1 hour).
   - **Resource**: Pluralsight
   - **Knowledge Goal**: Deepen Azure AD management skills.
-- [ ] Lab: Configure a Conditional Access policy (e.g., require MFA for admins) (1 hour).
+- [x] Lab: Configure a Conditional Access policy (e.g., require MFA for admins) (1 hour).
   - **Resource**: Azure portal
   - **Knowledge Goal**: Implement Conditional Access policies.
 - [ ] Quiz: Microsoft Learn practice questions on Azure AD (30 min).
   - **Resource**: Microsoft Learn
   - **Knowledge Goal**: Test Azure AD knowledge.
+
+  ***Resource list used during study***
+- *https://www.udemy.com/course/exam-azure-2/?couponCode=25BBPMXPLOYTRMT* - Udemy course (Unit 15 - )
 
 **Tuesday, April 29 (2 hours)**
 
