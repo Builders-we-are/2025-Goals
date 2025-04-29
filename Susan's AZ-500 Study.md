@@ -38,7 +38,7 @@
 
 **Monday, April 28 (2.5 hours)**
 
-- [ ] Watch Pluralsight: “Manage Identities in Azure AD” (1 hour).
+- [x] Watch Pluralsight: “Manage Identities in Azure AD” (1 hour).
   - **Resource**: Pluralsight
   - **Knowledge Goal**: Deepen Azure AD management skills.
 - [x] Lab: Configure a Conditional Access policy (e.g., require MFA for admins) (1 hour).
@@ -53,20 +53,25 @@
 
 **Tuesday, April 29 (2 hours)**
 
-- [ ] Complete Microsoft Learn: “Implement Azure AD role-based access control” (1 hour).
+- [x] Complete Microsoft Learn: “Implement Azure AD role-based access control” (1 hour).
   - **Resource**: Microsoft Learn
   - **Knowledge Goal**: Understand RBAC roles and scope.
-- [ ] Lab: Assign custom RBAC roles to a resource group (45 min).
+- [x] Lab: Assign custom RBAC roles to a resource group (45 min).
   - **Resource**: Azure portal
   - **Knowledge Goal**: Create and apply custom RBAC roles.
-- [ ] Create flashcards: RBAC roles vs. Azure AD roles (15 min).
+- [x] Create flashcards: RBAC roles vs. Azure AD roles (15 min).
   - **Knowledge Goal**: Differentiate RBAC and Azure AD roles.
 
 **Wednesday, April 30 (2.5 hours)**
 
- Watch Pluralsight: “Implement Privileged Identity Management” (1 hour).Resource: PluralsightKnowledge Goal: Understand PIM workflows.
- Lab: Enable PIM for an Azure AD role, test just-in-time access (1 hour).Resource: Azure portalKnowledge Goal: Configure and test PIM.
- Review notes: PIM workflows and audit logs (30 min).Knowledge Goal: Understand PIM auditing and reporting.
+- [ ] Watch Pluralsight: “Implement Privileged Identity Management” (1 hour).
+  - **Resource**: Pluralsight
+  - **Knowledge Goal**: Understand PIM workflows.
+- [ ] Lab: Enable PIM for an Azure AD role, test just-in-time access (1 hour).
+  - **Resource**: Azure portal
+  - **Knowledge Goal**: Configure and test PIM.
+- [ ] Review notes: PIM workflows and audit logs (30 min).
+  - **Knowledge Goal**: Understand PIM auditing and reporting.
 
 Thursday, May 1 (2 hours)
 
