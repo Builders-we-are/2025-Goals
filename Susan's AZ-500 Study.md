@@ -73,23 +73,38 @@
 - [ ] Review notes: PIM workflows and audit logs (30 min).
   - **Knowledge Goal**: Understand PIM auditing and reporting.
 
-Thursday, May 1 (2 hours)
+**Thursday, May 1 (2 hours)**
 
- Complete Microsoft Learn: “Secure external identities with Azure AD” (1 hour).Resource: Microsoft LearnKnowledge Goal: Manage B2B/B2C identities.
- Lab: Invite a guest user, configure B2B collaboration (45 min).Resource: Azure portalKnowledge Goal: Set up B2B collaboration.
- Quiz: Azure AD B2B vs. B2C (15 min).Resource: Microsoft LearnKnowledge Goal: Differentiate B2B and B2C scenarios.
+- [ ] Complete Microsoft Learn: “Secure external identities with Azure AD” (1 hour).
+  - **Resource**: Microsoft Learn
+  - **Knowledge Goal**: Manage B2B/B2C identities.
+- [ ] Lab: Invite a guest user, configure B2B collaboration (45 min).
+  - **Resource**: Azure portal
+  - **Knowledge Goal**: Set up B2B collaboration.
+- [ ] Quiz: Azure AD B2B vs. B2C (15 min).
+  - **Resource**: Microsoft Learn
+  - **Knowledge Goal**: Differentiate B2B and B2C scenarios.
 
-Friday, May 2 (2 hours)
+**Friday, May 2 (2 hours)**
 
- Watch John Savill YouTube: “Azure AD Security Features” (45 min).Resource: John Savill YouTubeKnowledge Goal: Explore advanced Azure AD security.
- Lab: Review audit logs and sign-in logs in Azure AD (1 hour).Resource: Azure portalKnowledge Goal: Analyze security logs.
- Review Week 1 notes, focus on weak areas (15 min).Knowledge Goal: Reinforce identity concepts.
+- [ ] Watch John Savill YouTube: “Azure AD Security Features” (45 min).
+  - **Resource**: John Savill YouTube
+  - **Knowledge Goal**: Explore advanced Azure AD security.
+- [ ] Lab: Review audit logs and sign-in logs in Azure AD (1 hour).
+  - **Resource**: Azure portal
+  - **Knowledge Goal**: Analyze security logs.
+- [ ] Review Week 1 notes, focus on weak areas (15 min).
+  - **Knowledge Goal**: Reinforce identity concepts.
 
-Saturday, May 3 (1.5 hours)
+**Saturday, May 3 (1.5 hours)**
 
- Take Microsoft Learn practice assessment for identity and access (45 min).Resource: Microsoft LearnKnowledge Goal: Assess Week 1 mastery.
- Review incorrect answers, update notes (30 min).Knowledge Goal: Identify and address gaps.
- Plan Week 2 schedule (15 min).Knowledge Goal: Stay organized.
+- Take Microsoft Learn practice assessment for identity and access (45 min).
+  - **Resource**: Microsoft Learn
+  - **Knowledge Goal**: Assess Week 1 mastery.
+- Review incorrect answers, update notes (30 min).
+  - **Knowledge Goal**: Identify and address gaps.
+- Plan Week 2 schedule (15 min).
+  - **Knowledge Goal**: Stay organized.
 
 ## Week 2: Implement Platform Protection (May 4–10, 2025, 14.5 hours)
 **Goal**: Master network security (NSGs, Azure Firewall), host security, and container security.
