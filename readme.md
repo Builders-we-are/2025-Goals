@@ -43,23 +43,24 @@ Feb
 Mar 
 - PowerBI
 - Tableau
-- Snowflake
-- DBT
+- Snowflake ✅
+- DBT ✅
 
 Q2
-- PySpark
-- ACM Cert addition to website
-- IAM project cross account access
-- Thougthspot vizualization
-- Powershell scripting 
-- One AWS Professional Cert. (Solution Architect expires in Oct)
+- PySpark ✅
+- Thougthspot vizualization ✅
 - Terraform cert renewal or higher cert? Vault?
 - Dynatrace
 - Prometheus
+
+Q3
+- ACM Cert addition to website
+- IAM project cross account access
+- Powershell scripting 
+- One AWS Professional Cert. (Solution Architect expires in Oct)
 - Grafana 
 
-
-Offset
+Q4
 - AWS EMR from scratch
 - ArgoCD (here)[https://www.youtube.com/watch?v=B7Q-LcWK4TA]
 - Complete ETL Project end to end
