@@ -321,6 +321,49 @@ Q1
 <details>
 
 
+  <summary> Joy's Goals </summary>
+  
+---
+
+Q2
+- Python for Data Engineering
+- Git / Git Hub
+- Pipeline (Airflow)
+- Data Warehousing
+- CI/CD Basics
+- Data Modeling
+
+</details>
+
+<details>
+
+---
+
+  <summary> Groups </summary>
+  Python
+  <ul>
+    <li>Edoboye</li>
+    <li>Ade</li>
+    <li>Qawi</li>
+  </ul>
+
+  K8S
+  <ul>
+    <li>Person1</li>
+    <li>Person2</li>
+  </ul>
+
+  Cyber Security
+   <ul>
+    <li>Person1</li>
+    <li>Person2</li>
+  </ul>
+
+</details>
+
+<details>
+
+
   <summary> Copy this sample block </summary>
   
 ---
@@ -364,3 +407,4 @@ Q1
   </ul>
 
 </details>
+
