@@ -201,7 +201,10 @@ Q1
 
 Q2
 - [x] April: Acquire the **Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage** certification
-- May: Study and Complete the AZ-500 exam.
+- [ ] Complete the Learn System Center Configuration Manager Book.
+     - Chapter 1 - 3
+- [ ] Complete the Data Engineering with Python book.
+     - Chapter 1 - 3
 
 </details>
 
