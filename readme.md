@@ -200,11 +200,14 @@ Q1
 - [x] Study and Complete the **Microsoft AZ-104** exam. ✅
 
 Q2
-- [x] April: Acquire the **Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage** certification
+- [x] April: Acquire the **Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage** certification ✅
 - [ ] Complete the Learn System Center Configuration Manager Book.
      - Chapter 1 - 3
 - [ ] Complete the Data Engineering with Python book.
      - Chapter 1 - 3
+(https://github.com/Builders-we-are/data-engineer-handbook/blob/main/bootcamp/introduction.md)
+- [ ] Complete Bootcamp Database Setup 
+  
 
 </details>
 
